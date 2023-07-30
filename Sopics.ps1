@@ -1,7 +1,7 @@
 ##### Start of user config #####
 
 # Set the path to the ExifTool executable
-$exifToolPath = "C:\Users\Jeff\Desktop\exiftool.exe"
+$exifToolPath = "C:\PATH_TO_EXIFTOOL.EXE_HERE"
 # Set the path to the directory containing the media
 $directory = "C:\SOURCE_HERE"
 # Set the path to the directory that should hold files without a date
